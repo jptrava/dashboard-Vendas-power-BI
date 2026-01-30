@@ -34,4 +34,4 @@ Durante a construção deste dashboard, pude aprimorar meus conhecimentos técni
 * **Design de Interface:** A escolha estratégica das cores e a disposição dos cartões foram pensadas para guiar o olhar do usuário das informações gerais (macro) para as específicas (micro).
 
 ---
-*Desenvolvido por [Seu Nome]*
+*Desenvolvido por João pedro de andrade santos*
