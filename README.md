@@ -7,7 +7,8 @@
 
 Desenvolvimento de um painel interativo de Business Intelligence focado na análise de performance de vendas de produtos eletrônicos. O objetivo principal foi criar uma visão centralizada para monitoramento de KPIs e identificação de tendências de mercado, facilitando a tomada de decisão baseada em dados.
 
-![Preview do Dashboard](caminho-da-sua-imagem.png)
+![Preview do Dashboard](<img width="1210" height="804" alt="dashboard vendas" src="https://github.com/user-attachments/assets/f19f1a19-d8c1-456e-8236-b25c2afcbb35" />
+)
 
 ## 🛠️ Ferramentas e Tecnologias
 
